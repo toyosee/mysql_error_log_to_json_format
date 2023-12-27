@@ -1,4 +1,4 @@
-Have you always wanted to convert errors in your mysql error log file to a structured data format.
+Have you ever wanted to convert errors in your mysql error log file to a structured data format.
 This might be for use in database or APIs.
 Mysql Version 5.7 does not have the functionality to export errors as JSON, this is available in version 8
 This script will do the magic for you irrespective of the version of mysql
