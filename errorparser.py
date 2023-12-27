@@ -1,3 +1,6 @@
+# Mysql error Log to JSON
+# Author: Elijah Abolaji O.
+
 import re
 import json
 

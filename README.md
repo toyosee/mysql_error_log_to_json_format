@@ -13,3 +13,6 @@ Currently, this is the structure of the RE:
     (?=\n\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2}|$): Positive lookahead to ensure the match stops at the next log entry (timestamp format) or end of the string.
 
 Feel free to use and adjust, Send in your comments and suggestions.
+
+Required Python Libraries: re, json - you can install with pip.
+Example: pip install re, json
